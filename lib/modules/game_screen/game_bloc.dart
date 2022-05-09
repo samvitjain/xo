@@ -96,13 +96,6 @@ class GameBloc {
                 },
                 title: 'Play Again',
               )
-              // FlatButton(
-              //   child: Text("Play Again"),
-              //   onPressed: () {
-              //     _clearBoard();
-              //     Navigator.of(context).pop();
-              //   },
-              // )
             ],
           );
         });

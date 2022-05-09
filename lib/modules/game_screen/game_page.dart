@@ -159,7 +159,11 @@ class _GamePageState extends State<GamePage> {
             } else if (snapshot.hasError) {
               return const CircularProgressIndicator();
             } else {
-              return const CircularProgressIndicator();
+              return Center(
+                child: CircularProgressIndicator(
+                  color: AppColors.lightGreen,
+                ),
+              );
             }
           }),
     );
