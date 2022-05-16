@@ -1,5 +1,5 @@
-# [XO APK] (https://samvit.xyz/xo.apk)
-# [XO MP4] (https://samvit.xyz/xo.mp4)
+## [XO APK](https://samvit.xyz/xo.apk)
+## [XO MP4](https://samvit.xyz/xo.mp4)
 
 # xo
 
